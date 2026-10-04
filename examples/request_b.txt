@@ -1,0 +1,4 @@
+GET /api/projects/12345 HTTP/2
+Host: example.com
+Authorization: Bearer SECRET_ACCOUNT_B
+Accept: application/json

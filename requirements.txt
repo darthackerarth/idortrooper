@@ -1,0 +1,3 @@
+# Runtime: none (stdlib only)
+# Dev
+pytest>=8.0
